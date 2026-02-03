@@ -71,9 +71,9 @@ export function Navbar() {
       >
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <div className="w-3 h-3 rounded-full bg-emerald-500" />
+          <div className="w-3 h-3 rounded-full bg-blue-500" />
           <span className="text-lg font-semibold text-gray-900">
-            Taskko
+            GoHr
           </span>
         </Link>
 
