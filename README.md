@@ -1,30 +1,31 @@
-# Taskko website replica
+*HR System Landing Page*
+## OVERVIEW
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This repository contains the landing page for **GoHR Systems** It serves as the primary informational and marketing entry point for clients and end users. The landing page highlights the core functionalities and capabilities of the HR system provides an overview of its key features allows users to sign in, and showcases what existing clients appreciate about the system.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bailodev137-9517s-projects/v0-taskko-website-replica)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/nZi0YWSVlEV)
+## OBJECTIVES
 
-## Overview
+1. Present a clear, professional overview of the HR System
+2. Communicate key features and benefits of using the system
+3. Drive user actions (e.g. sign in, contact info)
+4. Ensure responsive, accessible, and performant delivery
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## KEY FEATURES
 
-## Deployment
+- *Hero Section:* High-level value proposition 
+- *Clients Section:* shows respective clients and partners using system
+- *Feature Highlights:* Core HR modules (e.g., Employee Management, Payroll, Leave, Performance)
+- *Testimonial Section:* Highlights clients review of the system
+- *Call-to-Action:*  signup 
+- *Footer:* Legal links, features, terms of service, and contact information
 
-Your project is live at:
+## TARGET AUDIENCE
 
-**[https://vercel.com/bailodev137-9517s-projects/v0-taskko-website-replica](https://vercel.com/bailodev137-9517s-projects/v0-taskko-website-replica)**
+- HR managers and HR operations teams
+- Business owners and executives
+- IT and system administrators
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/nZi0YWSVlEV](https://v0.app/chat/nZi0YWSVlEV)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## TECH STACK
+   *-* Next Js 
+   *-* TypeScript 
+   *-* Tailwind CSS
